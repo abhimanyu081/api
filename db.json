@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "greate stream",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "greate stream",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "this WAS MADE BY ME",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "stream title 1",
+      "description": "stream description 1hjhjlkhjlkljfldsanjla",
+      "id": 4
+    },
+    {
+      "title": "stream title 1",
+      "description": "17987198709180910",
+      "id": 5
+    },
+    {
+      "title": "unexpcted behavuor kjskfdlhsadfjkds",
+      "description": "didnt expect that kjdslkjsafkdsjfjsa;lkjfdjsajaoids",
+      "id": 6
+    }
+  ]
+}
